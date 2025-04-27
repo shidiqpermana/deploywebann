@@ -1,0 +1,11 @@
+Flask
+numpy
+pandas
+joblib
+scikit-learn
+openpyxl
+matplotlib
+seaborn
+tensorflow
+tensorflow-hub
+tensorflow-datasets
